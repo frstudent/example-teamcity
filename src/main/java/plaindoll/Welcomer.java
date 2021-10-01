@@ -8,6 +8,6 @@ public class Welcomer{
 		return "Farewell, good hunter. May you find your worth in waking world.";
 	}
 	public String saySomething() {
-		return "This is test of Russian language: По-русски.";
+		return "This is test of Russian language: РџРѕ-СЂСѓСЃСЃРєРё.";
 	}
 }
